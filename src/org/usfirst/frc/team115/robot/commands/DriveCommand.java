@@ -5,7 +5,7 @@ import org.usfirst.frc.team115.robot.Robot;
 import edu.wpi.first.wpilibj.command.Command;
 
 /**
- *
+ *@author Ben Cuan
  */
 public class DriveCommand extends Command {
 

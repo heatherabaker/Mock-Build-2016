@@ -8,7 +8,7 @@ import edu.wpi.first.wpilibj.RobotDrive;
 import edu.wpi.first.wpilibj.command.Subsystem;
 
 /**
- *
+ *@author Ben Cuan
  */
 public class Drive extends Subsystem {
 	private final int LEFT_MOTOR = 0;
